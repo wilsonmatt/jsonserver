@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Multi-Factor Authentication (MFA) enabled Enterprise Portal accounts logins are experiencing intermittent issues" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Alert Post 1" },
+    { "id": 2, "title": "Alert Post 2" },
+    { "id": 3, "title": "Alert Post 3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },

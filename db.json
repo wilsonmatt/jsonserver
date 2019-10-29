@@ -1,8 +1,18 @@
 {
   "posts": [
-    { "id": 1, "title": "Alert Post 1" },
-    { "id": 2, "title": "Alert Post 2" },
-    { "id": 3, "title": "Alert Post 3" }
+    {"xxxx": "Enterprise Portal is currently experiencing intermittent service interruptions."},
+{"xxxx": "Enterprise Portal File Upload & Download services are currently unavailable."},
+{"xxxx": "Enterprise Portal File Upload & Download services are experiencing intermittent issues."},
+{"xxxx": "Enterprise Portal WCM services are currently unavailable."},
+{"xxxx": "Enterprise Portal WCM services are experiencing intermittent issues."},
+{"xxxx": "Enterprise Portal Connections services are currently unavailable."},
+{"xxxx": "Enterprise Portal Connections services are experiencing intermittent issues."},
+{"xxxx": "Multi-Factor Authentication (MFA) enabled accounts are currently unable to login."},
+{"xxxx": "Multi-Factor Authentication (MFA) enabled accounts are experiencing intermittent login issues."},
+{"xxxx": "Enterprise Portal login is currently unavailable."},
+{"xxxx": "Enterprise Portal is currently experiencing intermittent login issues."},
+{"System Info - Maintenance": "System Info - Maintenance"},
+{"System Info - Other": "System Info - Other"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },

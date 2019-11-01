@@ -1,18 +1,9 @@
 {
   "posts": [
-    { "id": 1, "subcat": "", "title": "Enterprise Portal is currently experiencing intermittent service interruptions."},
-{"id": 2, "subcat": "", "title": "Enterprise Portal File Upload & Download services are currently unavailable."},
-{"id": 3, "subcat": "", "title": "Enterprise Portal File Upload & Download services are experiencing intermittent issues."},
-{"id": 4, "subcat": "", "title": "Enterprise Portal WCM services are currently unavailable."},
-{"id": 5, "subcat": "", "title": "Enterprise Portal WCM services are experiencing intermittent issues."},
-{"id": 6, "subcat": "", "title": "Enterprise Portal Connections services are currently unavailable."},
-{"id": 7, "subcat": "", "title": "Enterprise Portal Connections services are experiencing intermittent issues."},
-{"id": 8, "subcat": "", "title": "Multi-Factor Authentication (MFA) enabled accounts are currently unable to login."},
-{"id": 9, "subcat": "", "title": "Multi-Factor Authentication (MFA) enabled accounts are experiencing intermittent login issues."},
-{"id": 10, "subcat": "", "title": "Enterprise Portal login is currently unavailable."},
-{"id": 11, "subcat": "", "title": "Enterprise Portal is currently experiencing intermittent login issues."},
-{"id": 12, "subcat": "Maintenance", "title": "System Info - Maintenance"},
-{"id": 13, "subcat": "Other", "title": "System Info - Other"}
+
+{"id": 1, "subcat": "", "title": "Enterprise Portal is currently experiencing intermittent login issues."},
+
+{"id": 2, "subcat": "Other", "title": "System Info - Other"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },

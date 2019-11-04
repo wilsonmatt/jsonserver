@@ -1,9 +1,9 @@
 {
   "posts": [
 
-{"id": 1, "subcat": "", "title": "Enterprise Portal is currently experiencing intermittent login issues."},
-
-{"id": 2, "subcat": "Other", "title": "System Info - Other"}
+{"id": 1, "subcat": "", "title": "Multi-Factor Authentication (MFA) enabled accounts are experiencing intermittent login issues."},
+{"id": 2, "subcat": "Maintenance", "title": "System Info - Maintenance"},
+{"id": 3, "subcat": "Other", "title": "System Info - Other"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },

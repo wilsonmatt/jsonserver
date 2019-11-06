@@ -2,8 +2,8 @@
   "posts": [
 
 {"id": 1, "subcat": "", "title": "Multi-Factor Authentication (MFA) enabled accounts are experiencing intermittent login issues."},
-{"id": 2, "subcat": "Maintenance", "title": "System Info - Maintenance"},
-{"id": 3, "subcat": "Other", "title": "System Info - Other"}
+{"id": 2, "subcat": "Maintenance", "title": "XYZ might under go Maintenance"},
+{"id": 3, "subcat": "Other", "title": "XYZ is brought to your attention (subcat: Other)"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },

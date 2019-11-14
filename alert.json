@@ -1,0 +1,5 @@
+[
+{"alertType": "SYSTEM_ALERT", "alertCategory": "SS_WCM_OUTAGE", "scheduleStartDate": "2019-11-14T11:53:59.000-0500", "message": "Enterprise Portal WCM services are currently unavailable.", "rank": 4}
+,{"alertType": "SYSTEM_ALERT", "alertCategory": "SS_CONNECTIONS_OUTAGE", "scheduleStartDate": "2019-11-14T11:52:24.000-0500", "message": "Enterprise Portal Connections services are currently unavailable.", "rank": 4}
+,{"alertType": "SYSTEM_ALERT", "alertCategory": "SS_WCM_DEGRADED", "scheduleStartDate": "2019-11-14T11:54:33.000-0500", "message": "Enterprise Portal WCM services are experiencing intermittent issues.", "rank": 5}
+]

@@ -17,7 +17,7 @@
   "profile": {
     "name": "typicode"
   },
-  "allkpi": {
+  "allkpi": 
   [
   {
     "service_id": "7a15b834-3802-4424-adae-5ba4790aa915",
@@ -3760,5 +3760,4 @@
     "Vertical_Groups": "ipmstrusrgrp|icadminusrgrp|ichelpdeskusrgrp|iccustomrptusrgrp|icapproverusrgrp|icuserusrgrp|icprivusrgrp|icmstrusrgrp"
   }
 ]
-  }
 }

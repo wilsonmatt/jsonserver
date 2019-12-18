@@ -113,7 +113,7 @@
     "service_id": "aaafb9a0-cafe-486c-a9c3-3222e8ec933e",
     "last_updated_date": "2019-12-02-13-45",
     "KPI_Name": "ServiceHealthScore",
-    "KPI_Value": "199.0",
+    "KPI_Value": "99.0",
     "Alert_Color": "#99D18B",
     "Alert_Urgency": "normal",
     "Vertical": "dev.net",

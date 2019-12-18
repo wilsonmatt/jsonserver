@@ -78,6 +78,46 @@
     "Alert_Urgency": "normal",
     "Vertical": "ucmdev2",
     "Vertical_Groups": "ucmusrgrp|ucmsysadmusrgrp"
+  },
+  {
+    "service_id": "aaafb9a0-cafe-486c-a9c3-3222e8ec933e",
+    "last_updated_date": "2019-12-02-13-45",
+    "KPI_Name": "DEV.NET-Health404Errors",
+    "KPI_Value": "1",
+    "Alert_Color": "#99D18B",
+    "Alert_Urgency": "normal",
+    "Vertical": "dev.net",
+    "Vertical_Groups": "wpsadmins"
+  },
+  {
+    "service_id": "aaafb9a0-cafe-486c-a9c3-3222e8ec933e",
+    "last_updated_date": "2019-12-02-13-45",
+    "KPI_Name": "DEV.NET-Health500Errors",
+    "KPI_Value": "1",
+    "Alert_Color": "#99D18B",
+    "Alert_Urgency": "normal",
+    "Vertical": "dev.net",
+    "Vertical_Groups": "wpsadmins"
+  },
+  {
+    "service_id": "aaafb9a0-cafe-486c-a9c3-3222e8ec933e",
+    "last_updated_date": "2019-12-02-13-45",
+    "KPI_Name": "DEV.NET-HealthUsers",
+    "KPI_Value": "1",
+    "Alert_Color": "#99D18B",
+    "Alert_Urgency": "normal",
+    "Vertical": "dev.net",
+    "Vertical_Groups": "wpsadmins"
+  },
+  {
+    "service_id": "aaafb9a0-cafe-486c-a9c3-3222e8ec933e",
+    "last_updated_date": "2019-12-02-13-45",
+    "KPI_Name": "ServiceHealthScore",
+    "KPI_Value": "100.0",
+    "Alert_Color": "#99D18B",
+    "Alert_Urgency": "normal",
+    "Vertical": "dev.net",
+    "Vertical_Groups": "wpsadmins"
   }
 ]
 }

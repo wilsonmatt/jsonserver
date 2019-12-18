@@ -118,6 +118,46 @@
     "Alert_Urgency": "normal",
     "Vertical": "dev.net",
     "Vertical_Groups": "wpsadmins"
-  }
+  },
+  {
+    "service_id": "65d5abe6-000b-4721-8d12-27ac920d316f",
+    "last_updated_date": "2019-12-02-13-45",
+    "KPI_Name": "DEV.GOV-Health404Errors",
+    "KPI_Value": "1",
+    "Alert_Color": "#99D18B",
+    "Alert_Urgency": "normal",
+    "Vertical": "dev.gov",
+    "Vertical_Groups": "wpsadmins"
+  },
+  {
+    "service_id": "65d5abe6-000b-4721-8d12-27ac920d316f",
+    "last_updated_date": "2019-12-02-13-45",
+    "KPI_Name": "DEV.GOV-Health500Errors",
+    "KPI_Value": "1",
+    "Alert_Color": "#99D18B",
+    "Alert_Urgency": "normal",
+    "Vertical": "dev.gov",
+    "Vertical_Groups": "wpsadmins"
+  },
+  {
+    "service_id": "65d5abe6-000b-4721-8d12-27ac920d316f",
+    "last_updated_date": "2019-12-02-13-45",
+    "KPI_Name": "DEV.GOV-HealthUsers",
+    "KPI_Value": "1",
+    "Alert_Color": "#99D18B",
+    "Alert_Urgency": "normal",
+    "Vertical": "dev.gov",
+    "Vertical_Groups": "wpsadmins"
+  },
+  {
+    "service_id": "65d5abe6-000b-4721-8d12-27ac920d316f",
+    "last_updated_date": "2019-12-02-13-45",
+    "KPI_Name": "ServiceHealthScore",
+    "KPI_Value": "100.0",
+    "Alert_Color": "#99D18B",
+    "Alert_Urgency": "normal",
+    "Vertical": "dev.gov",
+    "Vertical_Groups": "wpsadmins"
+  }  
 ]
 }

@@ -43,6 +43,44 @@
     "Alert_Color": "#99D18B",
     "Alert_Urgency": "normal",
     "Vertical": "aps"
+  },
+    {
+    "service_id": "65d5abe6-000b-4721-8d12-27ac920d316f",
+    "last_updated_date": "2019-12-02-13-45",
+    "KPI_Name": "ServiceHealthScore",
+    "KPI_Value": "54.2",
+    "Alert_Color": "#99D18B",
+    "Alert_Urgency": "normal",
+    "Vertical": "dev.gov",
+    "Vertical_Groups": "wpsadmins"
+  },
+  {
+    "KPI_Name": "DEV.NET-Health404Errors",
+    "KPI_Value": "1",
+    "Alert_Color": "#99D18B",
+    "Alert_Urgency": "normal",
+    "Vertical": "predev.net"
+  },
+  {
+    "KPI_Name": "DEV.NET-Health500Errors",
+    "KPI_Value": "1",
+    "Alert_Color": "#99D18B",
+    "Alert_Urgency": "normal",
+    "Vertical": "predev.net"
+  },
+  {
+    "KPI_Name": "DEV.NET-HealthUsers",
+    "KPI_Value": "1",
+    "Alert_Color": "#99D18B",
+    "Alert_Urgency": "normal",
+    "Vertical": "predev.net"
+  },
+  {
+    "KPI_Name": "ServiceHealthScore",
+    "KPI_Value": "77.0",
+    "Alert_Color": "#99D18B",
+    "Alert_Urgency": "normal",
+    "Vertical": "predev.net"
   }
 ]
 }

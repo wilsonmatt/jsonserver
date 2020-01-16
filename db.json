@@ -11,8 +11,8 @@
   },
   {
     "KPI_Name": "APS-Health-DEV90PercResponseTime",
-    "KPI_Value": "0",
-    "Alert_Color": "#99D18B",
+    "KPI_Value": "10000ms",
+    "Alert_Color": "#fcb64e",
     "Alert_Urgency": "normal",
     "Vertical": "aps"
   },

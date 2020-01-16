@@ -25,7 +25,7 @@
   },
   {
     "KPI_Name": "APS-Health-DEVUsers",
-    "KPI_Value": "1",
+    "KPI_Value": "N/A",
     "Alert_Color": "#99D18B",
     "Alert_Urgency": "normal",
     "Vertical": "aps"

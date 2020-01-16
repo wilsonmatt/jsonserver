@@ -39,7 +39,7 @@
   },
   {
     "KPI_Name": "ServiceHealthScore",
-    "KPI_Value": "89.13",
+    "KPI_Value": "N/A",
     "Alert_Color": "#99D18B",
     "Alert_Urgency": "normal",
     "Vertical": "aps"

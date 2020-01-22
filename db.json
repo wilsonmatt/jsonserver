@@ -71,6 +71,48 @@
     "Alert_Color": "#99D18B",
     "Alert_Urgency": "normal",
     "Vertical": "predev.net"
-  }
+  },
+  {
+    "KPI_Name": "BCRS-Health-DEV404Errors",
+    "KPI_Value": "0",
+    "Alert_Color": "#99D18B",
+    "Alert_Urgency": "normal",
+    "Vertical": "bcrs"
+  },
+  {
+    "KPI_Name": "BCRS-Health-DEV500Errors",
+    "KPI_Value": "0",
+    "Alert_Color": "#99D18B",
+    "Alert_Urgency": "normal",
+    "Vertical": "bcrs"
+  },
+  {
+    "KPI_Name": "BCRS-Health-DEV90PercResponseTime",
+    "KPI_Value": "N/A",
+    "Alert_Color": "#99D18B",
+    "Alert_Urgency": "normal",
+    "Vertical": "bcrs"
+  },
+  {
+    "KPI_Name": "BCRS-Health-DEVStatusCode=0",
+    "KPI_Value": "0",
+    "Alert_Color": "#99D18B",
+    "Alert_Urgency": "normal",
+    "Vertical": "bcrs"
+  },
+  {
+    "KPI_Name": "BCRS-Health-DEVUsers",
+    "KPI_Value": "0",
+    "Alert_Color": "#99D18B",
+    "Alert_Urgency": "normal",
+    "Vertical": "bcrs"
+  },
+  {
+    "KPI_Name": "ServiceHealthScore",
+    "KPI_Value": "100.0",
+    "Alert_Color": "#99D18B",
+    "Alert_Urgency": "normal",
+    "Vertical": "bcrs"
+  }  
 ]
 }

@@ -131,29 +131,8 @@
       "Alert_Color": "#99D18B",
       "Alert_Urgency": "normal",
       "Vertical": "bigapps"
-    },
-    "pages": [
-      {
-        "applicationName": "bigapps",
-        "pageName": "application",
-        "integrationType": "wab",
-        "createdBy": "PORTAL2_MIGRATION_JOB",
-        "updatedBy": "ATOM_FEED",
-        "createdOn": "Thu Sep 26 17:26:20 EDT 2019",
-        "updatedOn": "Thu Sep 26 17:26:20 EDT 2019",
-        "pageHierarchy": "1",
-        "displayTitle": "Application",
-        "friendlyUrl": "application",
-        "labelIndex": "bigapps",
-        "portletUniqueUri": "cm:oid:Z6_0Q96HK01N0J430AFM2QTFQ0G51",
-        "hostUrl": "bigapps-bdc-dev.cmssvc.local",
-        "resourcePath": "/APPS20/",
-        "openNewTab": false,
-        "roleMapping": [
-          "bigappsusrgrp"
-        ]
-      }
-    ]
+    }
+
   },
   {
     "applicationName": "bcrs",

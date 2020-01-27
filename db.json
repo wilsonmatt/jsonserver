@@ -1,5 +1,4 @@
 {
- 
   "vericals": [
      {
     "applicationName": "aps",
@@ -285,8 +284,6 @@
           "remasusrgrp"
         ]
       }
-    
-  
     ]
 }
   ],
@@ -406,7 +403,4 @@
     "Vertical": "bcrs"
   }  
 ]
- 
- 
- 
 }

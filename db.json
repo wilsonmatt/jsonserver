@@ -287,7 +287,7 @@
   },
   {
     "KPI_Name": "BCRS-Health-DEV500Errors",
-    "KPI_Value": "0",
+    "KPI_Value": "505",
     "Alert_Color": "#99D18B",
     "Alert_Urgency": "normal",
     "Vertical": "bcrs"
@@ -308,7 +308,7 @@
   },
   {
     "KPI_Name": "BCRS-Health-DEVUsers",
-    "KPI_Value": "0",
+    "KPI_Value": "8",
     "Alert_Color": "#99D18B",
     "Alert_Urgency": "normal",
     "Vertical": "bcrs"

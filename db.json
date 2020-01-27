@@ -52,69 +52,8 @@
     "createdBy": "PORTAL2_MIGRATION_JOB",
     "updatedBy": "PORTAL2_MIGRATION_JOB",
     "createdOn": "Thu Sep 26 17:26:19 EDT 2019",
-    "updatedOn": "Thu Sep 26 17:26:19 EDT 2019",
-    "pages": [
-      {
-        "applicationName": "apsstaging",
-        "pageName": "iat",
-        "integrationType": "wab",
-        "createdBy": "PORTAL2_MIGRATION_JOB",
-        "createdOn": "Thu Sep 26 17:26:20 EDT 2019",
-        "updatedOn": "Thu Sep 26 17:26:20 EDT 2019",
-        "pageHierarchy": "1",
-        "displayTitle": "IAT",
-        "friendlyUrl": "iat",
-        "labelIndex": "apsstaging",
-        "hostUrl": "",
-        "resourcePath": "",
-        "openNewTab": false,
-        "roleMapping": [
-          "apsusrgrp"
-        ],
-        "pageParameter": {
-          "pageScroll": "yes"
-        }
-      },
-      {
-        "applicationName": "apsstaging",
-        "pageName": "sit",
-        "integrationType": "wab",
-        "createdBy": "PORTAL2_MIGRATION_JOB",
-        "createdOn": "Thu Sep 26 17:26:20 EDT 2019",
-        "updatedOn": "Thu Sep 26 17:26:20 EDT 2019",
-        "pageHierarchy": "1",
-        "displayTitle": "SIT",
-        "friendlyUrl": "sit",
-        "labelIndex": "apsstaging",
-        "hostUrl": "",
-        "resourcePath": "",
-        "openNewTab": false,
-        "roleMapping": [
-          "apsusrgrp"
-        ],
-        "pageParameter": {
-          "pageScroll": "yes"
-        }
-      },
-      {
-        "applicationName": "apsstaging",
-        "pageName": "vpt",
-        "integrationType": "wab",
-        "createdBy": "PORTAL2_MIGRATION_JOB",
-        "createdOn": "Thu Sep 26 17:26:20 EDT 2019",
-        "updatedOn": "Thu Sep 26 17:26:20 EDT 2019",
-        "pageHierarchy": "1",
-        "displayTitle": "VPT",
-        "friendlyUrl": "vpt",
-        "labelIndex": "apsstaging",
-        "hostUrl": "",
-        "resourcePath": "",
-        "openNewTab": false,
-        "roleMapping": [
-          "apsusrgrp"
-        ]
-      }
-    ]
+    "updatedOn": "Thu Sep 26 17:26:19 EDT 2019"
+    
   },
   {
     "applicationName": "bigapps",

@@ -272,14 +272,14 @@
   },
   {
     "KPI_Name": "DEV.NET-HealthUsers",
-    "KPI_Value": "1",
+    "KPI_Value": "10 HU",
     "Alert_Color": "#99D18B",
     "Alert_Urgency": "normal",
     "Vertical": "predev.net"
   },
   {
     "KPI_Name": "ServiceHealthScore",
-    "KPI_Value": "N/A",
+    "KPI_Value": "98",
     "Alert_Color": "#99D18B",
     "Alert_Urgency": "normal",
     "Vertical": "predev.net"

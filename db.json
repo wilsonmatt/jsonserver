@@ -59,7 +59,7 @@
     "updatedBy": "PORTAL2_MIGRATION_JOB",
     "createdOn": "Thu Sep 26 17:26:19 EDT 2019",
     "updatedOn": "Thu Sep 26 17:26:19 EDT 2019"
-     "kpi": {
+     ,"kpi": {
       "KPI_Name": "ServiceHealthScore",
       "KPI_Value": "25.0",
       "Alert_Color": "#0000ff",

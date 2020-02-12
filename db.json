@@ -42,8 +42,7 @@
       }
     ]
   },
-  
-     {
+ {
     "applicationName": "aps",
     "labelHierarchy": "1",
     "labelName": "aps",
@@ -87,17 +86,7 @@
       }
     ]
   },
-  {
-    "applicationName": "apsstagingX",
-    "labelHierarchy": "1",
-    "labelName": "apsstagingX",
-    "displayTitle": "Advanced Provider Screening - Staging",
-    "createdBy": "PORTAL2_MIGRATION_JOB",
-    "updatedBy": "PORTAL2_MIGRATION_JOB",
-    "createdOn": "Thu Sep 26 17:26:19 EDT 2019",
-    "updatedOn": "Thu Sep 26 17:26:19 EDT 2019"
-   
-  },
+
   {
     "applicationName": "bigapps",
     "labelHierarchy": "1",
@@ -115,8 +104,6 @@
       "Vertical": "bigapps"
     }
   },
-    
-    
     { "applicationName": "VERT 1", "labelHierarchy": "1", "labelName": "bigapps", "displayTitle": "VERT 1", "createdBy": "PORTAL2_MIGRATION_JOB", "updatedBy": "PORTAL2_MIGRATION_JOB", "createdOn": "Thu Sep 26 17:26:19 EDT 2019", "updatedOn": "Thu Sep 26 17:26:19 EDT 2019", "kpi": { "KPI_Name": "ServiceHealthScore", "KPI_Value": "100.0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "vert1" } },
     { "applicationName": "VERT 2", "labelHierarchy": "1", "labelName": "bigapps", "displayTitle": "VERT 2", "createdBy": "PORTAL2_MIGRATION_JOB", "updatedBy": "PORTAL2_MIGRATION_JOB", "createdOn": "Thu Sep 26 17:26:19 EDT 2019", "updatedOn": "Thu Sep 26 17:26:19 EDT 2019", "kpi": { "KPI_Name": "ServiceHealthScore", "KPI_Value": "100.0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "vert2" } },
      { "applicationName": "VERT 3", "labelHierarchy": "1", "labelName": "bigapps", "displayTitle": "VERT 3", "createdBy": "PORTAL2_MIGRATION_JOB", "updatedBy": "PORTAL2_MIGRATION_JOB", "createdOn": "Thu Sep 26 17:26:19 EDT 2019", "updatedOn": "Thu Sep 26 17:26:19 EDT 2019", "kpi": { "KPI_Name": "ServiceHealthScore", "KPI_Value": "100.0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "vert3" } },
@@ -126,8 +113,7 @@
     { "applicationName": "VERT 7", "labelHierarchy": "1", "labelName": "bigapps", "displayTitle": "VERT 7", "createdBy": "PORTAL2_MIGRATION_JOB", "updatedBy": "PORTAL2_MIGRATION_JOB", "createdOn": "Thu Sep 26 17:26:19 EDT 2019", "updatedOn": "Thu Sep 26 17:26:19 EDT 2019", "kpi": { "KPI_Name": "ServiceHealthScore", "KPI_Value": "100.0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "vert7" } },
     { "applicationName": "VERT 8", "labelHierarchy": "1", "labelName": "bigapps", "displayTitle": "VERT 8", "createdBy": "PORTAL2_MIGRATION_JOB", "updatedBy": "PORTAL2_MIGRATION_JOB", "createdOn": "Thu Sep 26 17:26:19 EDT 2019", "updatedOn": "Thu Sep 26 17:26:19 EDT 2019", "kpi": { "KPI_Name": "ServiceHealthScore", "KPI_Value": "100.0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "vert8" } },
     { "applicationName": "VERT 9", "labelHierarchy": "1", "labelName": "bigapps", "displayTitle": "VERT 9", "createdBy": "PORTAL2_MIGRATION_JOB", "updatedBy": "PORTAL2_MIGRATION_JOB", "createdOn": "Thu Sep 26 17:26:19 EDT 2019", "updatedOn": "Thu Sep 26 17:26:19 EDT 2019", "kpi": { "KPI_Name": "ServiceHealthScore", "KPI_Value": "100.0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "vert9" } },
-    { "applicationName": "VERT 10", "labelHierarchy": "1", "labelName": "bigapps", "displayTitle": "VERT 10", "createdBy": "PORTAL2_MIGRATION_JOB", "updatedBy": "PORTAL2_MIGRATION_JOB", "createdOn": "Thu Sep 26 17:26:19 EDT 2019", "updatedOn": "Thu Sep 26 17:26:19 EDT 2019", "kpi": { "KPI_Name": "ServiceHealthScore", "KPI_Value": "100.0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "vert10" } },
-   
+    { "applicationName": "VERT 10", "labelHierarchy": "1", "labelName": "bigapps", "displayTitle": "VERT 10", "createdBy": "PORTAL2_MIGRATION_JOB", "updatedBy": "PORTAL2_MIGRATION_JOB", "createdOn": "Thu Sep 26 17:26:19 EDT 2019", "updatedOn": "Thu Sep 26 17:26:19 EDT 2019", "kpi": { "KPI_Name": "ServiceHealthScore", "KPI_Value": "100.0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "vert10" } },   
   {
     "applicationName": "bcrs",
     "labelHierarchy": "1",

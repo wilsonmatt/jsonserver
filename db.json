@@ -152,63 +152,10 @@
         "roleMapping": [
           "remasusrgrp"
         ]
-      },
-      {
-        "applicationName": "bcrs",
-        "pageName": "bcrsadmin",
-        "integrationType": "wab",
-        "createdBy": "PORTAL2_MIGRATION_JOB",
-        "updatedBy": "ATOM_FEED",
-        "createdOn": "Thu Sep 26 17:26:20 EDT 2019",
-        "updatedOn": "Thu Sep 26 17:26:20 EDT 2019",
-        "pageHierarchy": "4",
-        "displayTitle": "BCRS Admin",
-        "friendlyUrl": "bcrsadmin",
-        "labelIndex": "bcrs",
-        "portletUniqueUri": "cm:oid:Z6_0Q96HK01N0J430AFM2QTFQ08K0",
-        "hostUrl": "remas-gdit-dev.cmssvc.local",
-        "resourcePath": "/bcrs-admin",
-        "openNewTab": false,
-        "roleMapping": [
-          "remasusrgrp"
-        ]
-      },
-      {
-        "applicationName": "bcrs",
-        "pageName": "ibcrs",
-        "integrationType": "wab",
-        "createdBy": "PORTAL2_MIGRATION_JOB",
-        "createdOn": "Thu Sep 26 17:26:20 EDT 2019",
-        "updatedOn": "Thu Sep 26 17:26:20 EDT 2019",
-        "pageHierarchy": "1",
-        "displayTitle": "IBCRS",
-        "friendlyUrl": "ibcrs",
-        "labelIndex": "bcrs",
-        "hostUrl": "",
-        "resourcePath": "",
-        "openNewTab": false,
-        "roleMapping": [
-          "remasusrgrp"
-        ]
-      },
-      {
-        "applicationName": "bcrs",
-        "pageName": "ibcrsadmin",
-        "integrationType": "wab",
-        "createdBy": "PORTAL2_MIGRATION_JOB",
-        "createdOn": "Thu Sep 26 17:26:20 EDT 2019",
-        "updatedOn": "Thu Sep 26 17:26:20 EDT 2019",
-        "pageHierarchy": "1",
-        "displayTitle": "IBCRS Admin",
-        "friendlyUrl": "ibcrsadmin",
-        "labelIndex": "bcrs",
-        "hostUrl": "",
-        "resourcePath": "",
-        "openNewTab": false,
-        "roleMapping": [
-          "remasusrgrp"
-        ]
       }
+
+  
+    
       
       
     ]

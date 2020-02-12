@@ -114,8 +114,12 @@
       "Alert_Urgency": "normal",
       "Vertical": "bigapps"
     }
-
   },
+    
+    
+    { "applicationName": "VERT 1", "labelHierarchy": "1", "labelName": "bigapps", "displayTitle": "VERT 1", "createdBy": "PORTAL2_MIGRATION_JOB", "updatedBy": "PORTAL2_MIGRATION_JOB", "createdOn": "Thu Sep 26 17:26:19 EDT 2019", "updatedOn": "Thu Sep 26 17:26:19 EDT 2019", "kpi": { "KPI_Name": "ServiceHealthScore", "KPI_Value": "100.0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "vert1" } },
+    { "applicationName": "VERT 2", "labelHierarchy": "1", "labelName": "bigapps", "displayTitle": "VERT 2", "createdBy": "PORTAL2_MIGRATION_JOB", "updatedBy": "PORTAL2_MIGRATION_JOB", "createdOn": "Thu Sep 26 17:26:19 EDT 2019", "updatedOn": "Thu Sep 26 17:26:19 EDT 2019", "kpi": { "KPI_Name": "ServiceHealthScore", "KPI_Value": "100.0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "vert2" } },
+    
   {
     "applicationName": "bcrs",
     "labelHierarchy": "1",
@@ -152,12 +156,7 @@
         "roleMapping": [
           "remasusrgrp"
         ]
-      }
-
-  
-    
-      
-      
+      }    
     ]
 }
   ],

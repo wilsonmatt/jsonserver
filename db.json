@@ -208,43 +208,9 @@
         "roleMapping": [
           "remasusrgrp"
         ]
-      },
-      {
-        "applicationName": "bcrs",
-        "pageName": "pbcrs",
-        "integrationType": "wab",
-        "createdBy": "PORTAL2_MIGRATION_JOB",
-        "createdOn": "Thu Sep 26 17:26:20 EDT 2019",
-        "updatedOn": "Thu Sep 26 17:26:20 EDT 2019",
-        "pageHierarchy": "1",
-        "displayTitle": "PBCRS",
-        "friendlyUrl": "pbcrs",
-        "labelIndex": "bcrs",
-        "hostUrl": "remas-gdit-dev.cmssvc.local",
-        "resourcePath": "/pbcrs-web",
-        "openNewTab": false,
-        "roleMapping": [
-          "remasusrgrp"
-        ]
-      },
-      {
-        "applicationName": "bcrs",
-        "pageName": "pbcrsadmin",
-        "integrationType": "wab",
-        "createdBy": "PORTAL2_MIGRATION_JOB",
-        "createdOn": "Thu Sep 26 17:26:20 EDT 2019",
-        "updatedOn": "Thu Sep 26 17:26:20 EDT 2019",
-        "pageHierarchy": "3",
-        "displayTitle": "PBCRS Admin",
-        "friendlyUrl": "pbcrsadmin",
-        "labelIndex": "bcrs",
-        "hostUrl": "remas-gdit-dev.cmssvc.local",
-        "resourcePath": "/pbcrs-admin",
-        "openNewTab": false,
-        "roleMapping": [
-          "remasusrgrp"
-        ]
       }
+      
+      
     ]
 }
   ],

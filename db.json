@@ -1,47 +1,5 @@
 {
-  "vericals": [     
-      {
-    "applicationName": "macfintest",
-    "labelHierarchy": "1",
-    "labelName": "macfintest",
-    "displayTitle": "Medicaid and CHIP Financial (MACFin) - Test",
-    "createdBy": "PORTAL2_MIGRATION_JOB",
-    "updatedBy": "PORTAL2_MIGRATION_JOB",
-    "createdOn": "Thu Sep 26 17:26:20 EDT 2019",
-    "updatedOn": "Thu Sep 26 17:26:20 EDT 2019",
-    "kpi": {
-      "KPI_Name": "ServiceHealthScore",
-      "KPI_Value": "100",
-      "Alert_Color": "#99D18B",
-      "Alert_Urgency": "normal",
-      "Vertical": "macfintest"
-    },
-    "pages": [
-      {
-        "applicationName": "macfintest",
-        "pageName": "application",
-        "integrationType": "wab",
-        "createdBy": "PORTAL2_MIGRATION_JOB",
-        "updatedBy": "ATOM_FEED",
-        "createdOn": "Thu Sep 26 17:26:20 EDT 2019",
-        "updatedOn": "Thu Sep 26 17:26:20 EDT 2019",
-        "pageHierarchy": "1",
-        "displayTitle": "Application",
-        "friendlyUrl": "application",
-        "labelIndex": "macfintest",
-        "portletUniqueUri": "cm:oid:Z6_0Q96HK01N8QD90Q255KAP620G6",
-        "hostUrl": "macf-aws-test.cmssvc.local",
-        "resourcePath": "/macfin/authenticateportal/",
-        "openNewTab": false,
-        "roleMapping": [
-          "macfinusrgrp"
-        ],
-        "pageParameter": {
-          "pageScroll": "yes"
-        }
-      }
-    ]
-  },
+  "vericals": [
  {
     "applicationName": "aps",
     "labelHierarchy": "1",
@@ -106,7 +64,7 @@
   },
     { "applicationName": "VERT 1", "labelHierarchy": "1", "labelName": "bigapps", "displayTitle": "VERT 1", "createdBy": "PORTAL2_MIGRATION_JOB", "updatedBy": "PORTAL2_MIGRATION_JOB", "createdOn": "Thu Sep 26 17:26:19 EDT 2019", "updatedOn": "Thu Sep 26 17:26:19 EDT 2019", "kpi": { "KPI_Name": "ServiceHealthScore", "KPI_Value": "100.0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "vert1" } },
     { "applicationName": "VERT 2", "labelHierarchy": "1", "labelName": "bigapps", "displayTitle": "VERT 2", "createdBy": "PORTAL2_MIGRATION_JOB", "updatedBy": "PORTAL2_MIGRATION_JOB", "createdOn": "Thu Sep 26 17:26:19 EDT 2019", "updatedOn": "Thu Sep 26 17:26:19 EDT 2019", "kpi": { "KPI_Name": "ServiceHealthScore", "KPI_Value": "100.0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "vert2" } },
-     { "applicationName": "VERT 3", "labelHierarchy": "1", "labelName": "bigapps", "displayTitle": "VERT 3", "createdBy": "PORTAL2_MIGRATION_JOB", "updatedBy": "PORTAL2_MIGRATION_JOB", "createdOn": "Thu Sep 26 17:26:19 EDT 2019", "updatedOn": "Thu Sep 26 17:26:19 EDT 2019", "kpi": { "KPI_Name": "ServiceHealthScore", "KPI_Value": "100.0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "vert3" } },
+     { "applicationName": "VERT 3", "labelHierarchy": "1", "labelName": "bigapps", "displayTitle": "Medicaid and CHIP Financial (MACFin) - Test", "createdBy": "PORTAL2_MIGRATION_JOB", "updatedBy": "PORTAL2_MIGRATION_JOB", "createdOn": "Thu Sep 26 17:26:19 EDT 2019", "updatedOn": "Thu Sep 26 17:26:19 EDT 2019", "kpi": { "KPI_Name": "ServiceHealthScore", "KPI_Value": "100.0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "vert3" } },
     { "applicationName": "VERT 4", "labelHierarchy": "1", "labelName": "bigapps", "displayTitle": "VERT 4", "createdBy": "PORTAL2_MIGRATION_JOB", "updatedBy": "PORTAL2_MIGRATION_JOB", "createdOn": "Thu Sep 26 17:26:19 EDT 2019", "updatedOn": "Thu Sep 26 17:26:19 EDT 2019", "kpi": { "KPI_Name": "ServiceHealthScore", "KPI_Value": "100.0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "vert4" } },
     { "applicationName": "VERT 5", "labelHierarchy": "1", "labelName": "bigapps", "displayTitle": "VERT 5", "createdBy": "PORTAL2_MIGRATION_JOB", "updatedBy": "PORTAL2_MIGRATION_JOB", "createdOn": "Thu Sep 26 17:26:19 EDT 2019", "updatedOn": "Thu Sep 26 17:26:19 EDT 2019", "kpi": { "KPI_Name": "ServiceHealthScore", "KPI_Value": "100.0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "vert5" } },
     { "applicationName": "VERT 6", "labelHierarchy": "1", "labelName": "bigapps", "displayTitle": "VERT 6", "createdBy": "PORTAL2_MIGRATION_JOB", "updatedBy": "PORTAL2_MIGRATION_JOB", "createdOn": "Thu Sep 26 17:26:19 EDT 2019", "updatedOn": "Thu Sep 26 17:26:19 EDT 2019", "kpi": { "KPI_Name": "ServiceHealthScore", "KPI_Value": "100.0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "vert6" } },

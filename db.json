@@ -6,6 +6,52 @@
   ],
 
   "vericals": [
+      
+      
+      {
+    "applicationName": "macfintest",
+    "labelHierarchy": "1",
+    "labelName": "macfintest",
+    "displayTitle": "Medicaid and CHIP Financial (MACFin) - Test",
+    "createdBy": "PORTAL2_MIGRATION_JOB",
+    "updatedBy": "PORTAL2_MIGRATION_JOB",
+    "createdOn": "Thu Sep 26 17:26:20 EDT 2019",
+    "updatedOn": "Thu Sep 26 17:26:20 EDT 2019",
+    "kpi": {
+      "KPI_Name": "ServiceHealthScore",
+      "KPI_Value": "100",
+      "Alert_Color": "#99D18B",
+      "Alert_Urgency": "normal",
+      "Vertical": "macfintest"
+    },
+    "pages": [
+      {
+        "applicationName": "macfintest",
+        "pageName": "application",
+        "integrationType": "wab",
+        "createdBy": "PORTAL2_MIGRATION_JOB",
+        "updatedBy": "ATOM_FEED",
+        "createdOn": "Thu Sep 26 17:26:20 EDT 2019",
+        "updatedOn": "Thu Sep 26 17:26:20 EDT 2019",
+        "pageHierarchy": "1",
+        "displayTitle": "Application",
+        "friendlyUrl": "application",
+        "labelIndex": "macfintest",
+        "portletUniqueUri": "cm:oid:Z6_0Q96HK01N8QD90Q255KAP620G6",
+        "hostUrl": "macf-aws-test.cmssvc.local",
+        "resourcePath": "/macfin/authenticateportal/",
+        "openNewTab": false,
+        "roleMapping": [
+          "macfinusrgrp"
+        ],
+        "pageParameter": {
+          "pageScroll": "yes"
+        }
+      }
+    ]
+  },
+      
+      
      {
     "applicationName": "aps",
     "labelHierarchy": "1",

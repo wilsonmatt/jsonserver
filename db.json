@@ -102,15 +102,15 @@
   {
     "KPI_Name": "BCRS-Health-DEV500Errors",
     "KPI_Value": "505",
-    "Alert_Color": "#99D18B",
-    "Alert_Urgency": "normal",
+    "Alert_Color": "#f26a35",
+    "Alert_Urgency": "high",
     "Vertical": "bcrs"
   },
   {
     "KPI_Name": "BCRS-Health-DEV90PercResponseTime",
     "KPI_Value": "N/A",
-    "Alert_Color": "#99D18B",
-    "Alert_Urgency": "normal",
+    "Alert_Color": "#707070",
+    "Alert_Urgency": "stale",
     "Vertical": "bcrs"
   },
   {
@@ -129,7 +129,7 @@
   },
   {
     "KPI_Name": "ServiceHealthScore",
-    "KPI_Value": "100.0",
+    "KPI_Value": "97.0",
     "Alert_Color": "#99D18B",
     "Alert_Urgency": "normal",
     "Vertical": "bcrs"

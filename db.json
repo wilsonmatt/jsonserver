@@ -25,8 +25,8 @@
   {
     "KPI_Name": "APS-Health-DEV404Errors",
     "KPI_Value": "N/A",
-    "Alert_Color": "#FCB64E",
-    "Alert_Urgency": "medium",
+    "Alert_Color": "#707070",
+    "Alert_Urgency": "stale",
     "Vertical": "aps"
   },
   {

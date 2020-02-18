@@ -87,7 +87,7 @@
   },
   {
     "KPI_Name": "ServiceHealthScore",
-    "KPI_Value": "98",
+    "KPI_Value": "95",
     "Alert_Color": "#99D18B",
     "Alert_Urgency": "normal",
     "Vertical": "predev.net"

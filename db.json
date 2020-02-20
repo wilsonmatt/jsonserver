@@ -26,13 +26,7 @@
 {"service_id": "4b5fc27d-6f47-4b9e-82e5-d28d6191918f","last_updated_date": "000","KPI_Name": "MARXDEV2-Health-DEVStatusCode=0","KPI_Value": "0","Alert_Color": "#99D18B","Alert_Urgency": "normal","Vertical": "marxdev2","Vertical_Groups": "marxusrgrp"},
 {"KPI_Name": "APS-Health-DEV404Errors","KPI_Value": "N/A","Alert_Color": "#707070","Alert_Urgency": "stale","Vertical": "aps"},
 {"KPI_Name": "APS-Health-DEV90PercResponseTime","KPI_Value": "10000ms","Alert_Color": "#fcb64e","Alert_Urgency": "normal","Vertical": "aps"},
-  {
-    "KPI_Name": "APS-Health-DEVStatusCode=0",
-    "KPI_Value": "0",
-    "Alert_Color": "#99D18B",
-    "Alert_Urgency": "normal",
-    "Vertical": "aps"
-  },
+{"KPI_Name": "APS-Health-DEVStatusCode=0","KPI_Value": "-77","Alert_Color": "#B50101","Alert_Urgency": "critical","Vertical": "aps"},
   {
     "KPI_Name": "APS-Health-DEVUsers",
     "KPI_Value": "N/A",

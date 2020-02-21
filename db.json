@@ -29,13 +29,7 @@
 {"KPI_Name": "APS-Health-DEVStatusCode=0","KPI_Value": "-77","Alert_Color": "#B50101","Alert_Urgency": "critical","Vertical": "aps"},
 {"KPI_Name": "APS-Health-DEVUsers","KPI_Value": "N/A","Alert_Color": "#707070","Alert_Urgency": "stale","Vertical": "aps"},
 {"KPI_Name": "APS-Health-Dev500Errors","KPI_Value": "5","Alert_Color": "#B50101","Alert_Urgency": "critical","Vertical": "aps"},
-{
-    "KPI_Name": "ServiceHealthScore",
-    "KPI_Value": "N/A",
-    "Alert_Color": "#99D18B",
-    "Alert_Urgency": "normal",
-    "Vertical": "aps"
-  },
+{"KPI_Name": "ServiceHealthScore","KPI_Value": "0","Alert_Color": "#B50101","Alert_Urgency": "critical","Vertical": "aps"},
   {
     "KPI_Name": "DEV.NET-Health404Errors",
     "KPI_Value": "1",

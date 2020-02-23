@@ -27,8 +27,8 @@
 ],
 "allkpi":
 [
-{"KPI_Name": "APS-Health-DEV404Errors","KPI_Value": "0","Alert_Color": "#99D18B","Alert_Urgency": "normal","Vertical": "marxdev2X"},
-{"service_id": "4b5fc27d-6f47-4b9e-82e5-d28d6191918f","last_updated_date": "000","KPI_Name": "MARXDEV2-Health-DEVStatusCode=0","KPI_Value": "0","Alert_Color": "#99D18B","Alert_Urgency": "normal","Vertical": "marxdev2X","Vertical_Groups": "marxusrgrp"},
+{"KPI_Name": "APS-Health-DEV404Errors","KPI_Value": "3","Alert_Color": "#99D18B","Alert_Urgency": "normal","Vertical": "marxdev2"},
+{"service_id": "4b5fc27d-6f47-4b9e-82e5-d28d6191918f","last_updated_date": "000","KPI_Name": "MARXDEV2-Health-DEVStatusCode=0","KPI_Value": "03","Alert_Color": "#99D18B","Alert_Urgency": "normal","Vertical": "marxdev2","Vertical_Groups": "marxusrgrp"},
 {"KPI_Name": "DEV.NET-Health404Errors", "KPI_Value": "1", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "predev.net" },
 {"KPI_Name": "DEV.NET-Health500Errors", "KPI_Value": "1", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "predev.net" },
 {"KPI_Name": "DEV.NET-HealthUsers", "KPI_Value": "10 HU", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "predev.net"},

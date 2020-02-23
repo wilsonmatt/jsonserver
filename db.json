@@ -27,14 +27,14 @@
 ],
 "allkpi":
 [
-{"KPI_Name": "APS-Health-DEV404Errors","KPI_Value": "0","Alert_Color": "#99D18B","Alert_Urgency": "normal","Vertical": "marxdev2"},
-{"service_id": "4b5fc27d-6f47-4b9e-82e5-d28d6191918f","last_updated_date": "000","KPI_Name": "MARXDEV2-Health-DEVStatusCode=0","KPI_Value": "0","Alert_Color": "#99D18B","Alert_Urgency": "normal","Vertical": "marxdev2","Vertical_Groups": "marxusrgrp"},
+{"KPI_Name": "APS-Health-DEV404Errors","KPI_Value": "0","Alert_Color": "#99D18B","Alert_Urgency": "normal","Vertical": "marxdev2X"},
+{"service_id": "4b5fc27d-6f47-4b9e-82e5-d28d6191918f","last_updated_date": "000","KPI_Name": "MARXDEV2-Health-DEVStatusCode=0","KPI_Value": "0","Alert_Color": "#99D18B","Alert_Urgency": "normal","Vertical": "marxdev2X","Vertical_Groups": "marxusrgrp"},
 {"KPI_Name": "DEV.NET-Health404Errors", "KPI_Value": "1", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "predev.net" },
 {"KPI_Name": "DEV.NET-Health500Errors", "KPI_Value": "1", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "predev.net" },
 {"KPI_Name": "DEV.NET-HealthUsers", "KPI_Value": "10 HU", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "predev.net"},
 {"KPI_Name": "ServiceHealthScore", "KPI_Value": "95", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "predev.net" },
 {"KPI_Name": "BCRS-Health-DEV404Errors", "KPI_Value": "0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "bcrs" },
-{"KPI_Name": "BCRS-Health-DEV500Errors", "KPI_Value": "505", "Alert_Color": "#f26a35", "Alert_Urgency": "high", "Vertical": "bcrs" },
+{"KPI_Name": "BCRS-Health-DEV500Errors", "KPI_Value": "507", "Alert_Color": "#f26a35", "Alert_Urgency": "high", "Vertical": "bcrs" },
 {"KPI_Name": "BCRS-Health-DEV90PercResponseTime", "KPI_Value": "N/A", "Alert_Color": "#707070", "Alert_Urgency": "stale", "Vertical": "bcrs" },
 {"KPI_Name": "BCRS-Health-DEVStatusCode=0", "KPI_Value": "0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "bcrs" },
 {"KPI_Name": "BCRS-Health-DEVUsers", "KPI_Value": "999", "Alert_Color": "#fcb64e", "Alert_Urgency": "medium", "Vertical": "bcrs"},

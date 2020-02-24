@@ -32,12 +32,12 @@
 {"KPI_Name": "DEV.NET-Health404Errors", "KPI_Value": "1", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "predev.net" },
 {"KPI_Name": "DEV.NET-Health500Errors", "KPI_Value": "1", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "predev.net" },
 {"KPI_Name": "DEV.NET-HealthUsers", "KPI_Value": "10 HU", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "predev.net"},
-{"KPI_Name": "ServiceHealthScore", "KPI_Value": "95", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "predev.net" },
+{"KPI_Name": "ServiceHealthScore", "KPI_Value": "N/A", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "predev.net" },
 {"KPI_Name": "BCRS-Health-DEV404Errors", "KPI_Value": "0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "bcrs" },
 {"KPI_Name": "BCRS-Health-DEV500Errors", "KPI_Value": "507", "Alert_Color": "#f26a35", "Alert_Urgency": "high", "Vertical": "bcrs" },
 {"KPI_Name": "BCRS-Health-DEV90PercResponseTime", "KPI_Value": "3.4567", "Alert_Color": "#fcb64e", "Alert_Urgency": "medium", "Vertical": "bcrs" },
 {"KPI_Name": "BCRS-Health-DEVStatusCode=0", "KPI_Value": "", "Alert_Color": "#0000ff", "Alert_Urgency": "stale", "Vertical": "bcrs" },
 {"KPI_Name": "BCRS-Health-DEVUsers", "KPI_Value": "999", "Alert_Color": "#fcb64e", "Alert_Urgency": "medium", "Vertical": "bcrs"},
-{"KPI_Name": "ServiceHealthScore", "KPI_Value": "96.0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "bcrs"} 
+{"KPI_Name": "ServiceHealthScore", "KPI_Value": "N/A", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "bcrs"} 
 ]
 }

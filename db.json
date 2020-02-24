@@ -22,16 +22,16 @@
 {"applicationName": "aps", "labelHierarchy": "1", "labelName": "aps", "displayTitle": "aps", "createdBy": "p9", "updatedBy": "PO", "createdOn": "2019", "updatedOn": "2019", "kpi": { "KPI_Name": "ServiceHealthScore", "KPI_Value": "100.0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "aps"}},
 {"applicationName": "VERT2", "labelHierarchy": "1", "labelName": "x", "displayTitle": "VERT 2", "createdBy": "p9", "updatedBy": "PO", "createdOn": "  26 17:26:19  2019", "updatedOn": "1", "kpi": { "KPI_Name": "ServiceHealthScore", "KPI_Value": "100.0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal","Vertical":"vert2"}},
 {"applicationName": "VERT3", "labelHierarchy": "1", "labelName": "x", "displayTitle": "VERT 3", "createdBy": "p9", "updatedBy": "PO", "createdOn": "  26 17:26:19  2019", "updatedOn": "1", "kpi": { "KPI_Name": "ServiceHealthScore", "KPI_Value": "100.0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal","Vertical":"vert3"}},
-{"applicationName": "VERT4", "labelHierarchy": "1", "labelName": "x", "displayTitle": "VERT 4", "createdBy": "p9", "updatedBy": "PO", "createdOn": "  26 17:26:19  2019", "updatedOn": "1", "kpi": { "KPI_Name": "ServiceHealthScore", "KPI_Value": "100.0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal","Vertical":"vert4"}}
+{"applicationName": "VERT4", "labelHierarchy": "1", "labelName": "x", "displayTitle": "VERT 4", "createdBy": "p9", "updatedBy": "PO", "createdOn": "  26 17:26:19  2019", "updatedOn": "1", "kpi": { "KPI_Name": "ServiceHealthScore", "KPI_Value": "100.0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal","Vertical":"vert4"}},
+{"applicationName": "VERT4", "labelHierarchy": "1", "labelName": "x", "displayTitle": "VERT 4", "createdBy": "p9", "updatedBy": "PO", "createdOn": "  26 17:26:19  2019", "updatedOn": "1", "kpi": { "KPI_Name": "ServiceHealthScore", "KPI_Value": "100.0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal","Vertical":"vert4"}},
+{"applicationName": "VERT4", "labelHierarchy": "1", "labelName": "x", "displayTitle": "VERT 4", "createdBy": "p9", "updatedBy": "PO", "createdOn": "  26 17:26:19  2019", "updatedOn": "1", "kpi": { "KPI_Name": "ServiceHealthScore", "KPI_Value": "100.0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal","Vertical":"vert4"}},
+{"applicationName": "bcrs", "labelHierarchy": "1", "labelName": "bcrs", "displayTitle": "bcrs", "createdBy": "p9", "updatedBy": "PO", "createdOn": "  26 17:26:19  2019", "updatedOn": "1", "kpi": { "KPI_Name": "ServiceHealthScore", "KPI_Value": "777", "Alert_Color": "#99D18B", "Alert_Urgency": "normal","Vertical":"bcrs"}}
 ],
 "allkpi":
 [
 {"KPI_Name": "APS-Health-DEV404Errors","KPI_Value": "3","Alert_Color": "#99D18B","Alert_Urgency": "normal","Vertical": "marxdev2"},
-{"service_id": "4b5fc27d-6f47-4b9e-82e5-d28d6191918f","last_updated_date": "000","KPI_Name": "MARXDEV2-Health-DEVStatusCode=0","KPI_Value": "03","Alert_Color": "#99D18B","Alert_Urgency": "normal","Vertical": "marxdev2","Vertical_Groups": "marxusrgrp"},
+{"KPI_Name": "MARXDEV2-Health-DEVStatusCode=0","KPI_Value": "03","Alert_Color": "#99D18B","Alert_Urgency": "normal","Vertical": "marxdev2","Vertical_Groups": "marxusrgrp"},
 {"KPI_Name": "ServiceHealthScore", "KPI_Value": "33.0", "Alert_Color": "#ffe98c ", "Alert_Urgency": "low", "Vertical": "marxdev2"},
-{"KPI_Name": "DEV.NET-Health404Errors", "KPI_Value": "1", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "predev.net" },
-{"KPI_Name": "DEV.NET-Health500Errors", "KPI_Value": "1", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "predev.net" },
-{"KPI_Name": "DEV.NET-HealthUsers", "KPI_Value": "10 HU", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "predev.net"},
 {"KPI_Name": "ServiceHealthScore", "KPI_Value": "N/A", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "predev.net" },
 {"KPI_Name": "BCRS-Health-DEV404Errors", "KPI_Value": "0", "Alert_Color": "#99D18B", "Alert_Urgency": "normal", "Vertical": "bcrs" },
 {"KPI_Name": "BCRS-Health-DEV500Errors", "KPI_Value": "507", "Alert_Color": "#f26a35", "Alert_Urgency": "high", "Vertical": "bcrs" },

@@ -1,0 +1,150 @@
+{"name":"Matt Wilson","profile_name":"mattwilson","profile_url":"https://mattwilson",
+  "gravatar_url":"",
+  "gravatar_hash":"43ea08b4fc547e8a5da87c207bea2123",
+  "badges":
+  [
+
+  {"id":49,"title":"Software Engineer","duration":"8/2018-Present","location":"Washington DC",
+    "companyInfo":"CSRA",
+    "url":"https://teamtreehouse.com/jamesbarnett",
+    "icon_url":"","earned_date":"2012-10-01T19:40:31.000Z",
+    "courses":[
+	"Coded , tested, debugged multi-tier .NET/C# electronic vouchering system as submitted by attorneys and experts for criminal cases using Visual Studio Enterprise 2015, SQL Server Management Studio 17.1, SQL Server Data Tools, MS SQL Server 2016 Report Builder, DevExpress, Component Art Controls with Team Foundation Server for source control"
+	,"Designed reports consuming web services in Report Designer"
+	,"Contributed in Sprint Planning meetings, daily Scum meetings"
+	,"Provided feedback in Sprint Retro meetings to identify issues and improvements"
+    ]
+  },
+    {"id":159,"title":"Software Engineer","duration":"1/2017 – 7/2018","location":"Frederick, MD",
+      "companyInfo":"CSRA",
+      "url":"https://teamtreehouse.com/library/build-a-simple-website/website-basics",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_WebsiteIsland1_Stage1.png","earned_date":"2012-10-01T20:03:11.000Z",
+      "courses":[
+        "Coded, tested, debugged and implemented .NET peer review application for the Department of Education, Institute of Education Sciences (IES), Peer Review Information Management Online (PRIMO) web application"
+    	,"Utilized Agile best practices and coding standards while completing project tasks including coding, testing, debugging, documenting and maintaining application code"
+    	,"Used JIRA for bug tracking, issue tracking, and project management and Confluence for knowledge share"
+    	,"Utilized third-party API’s, such as jqGrid 4.13.3 (Ajax-enabled JavaScript Plugin), KnockoutJS 3.4.0, and CKEditor - WYSIWYG rich text editor to rapidly develop customized application solutions"
+    	,"Worked with Business Process Analysts to design and develop solutions and workflows that meet business requirements"
+    	,"Worked with Testers to transfer knowledge and ensure adequate test coverage"
+    	,"Analyzed and resolved current Production application issues"
+    	,"Participated in design and code reviews"
+    	,"Managed source code using Subversion"
+    	,"Suggested business process improvements while working through solution design Qualifications"
+      ]
+      },
+
+    {"id":165,"title":"Software Applications Developer","duration":"4/2016 – 12/2016",
+      "companyInfo":"CSRA",
+      "location":"Columbia, MD","url":"https://teamtreehouse.com/library/build-a-simple-website/text-editors-and-html","icon_url":"https://achievement-images.teamtreehouse.com/badges_WebsiteIsland1_Stage2.png","earned_date":"2012-10-01T21:16:37.000Z",
+      "courses":[
+        "Coded, tested, debugged and implemented Junit tests within the Centers for Medicare & Medicaid Services (CMS) web application"
+        ,"Developed micro level automated testing plans under the CMS PQRS system, a Java/J2EE technology stack located in Dimensions repository"
+        ,"Refactored code and ran automated JUNIT tests using validation and persistence suite classes where tests were counted, number of failure and number of errors were tracked"
+        ,"Mapped code to business requirements verifying test assertions are based on conformance number in the HL7 and PQRS schematron"
+        ,"Built, cleaned and compiled Eclipse Mars workspace of 10 or more projects including several JARS and EARS archives"
+        ,"Synced and published web application on Oracle Weblogic Server"
+        ,"Contributed to the success of team to meet future code releases for 'vetting' and 'data persistence' workflows"
+        ,"Participated in peer code reviews providing and receiving feedback in terms of defects and resolution using a collaborative web based peer review system"
+        ,"Researched, coded and tested a fullstack JS development environment, which included Angular 2, ExpressJS, and Node.js to stay abreast with cutting edge technologies"
+        ]
+      },
+
+    {"id":170,"title":"Software Engineer, Web Designer","duration":"2/2013 – 4/2016",
+      "companyInfo":"CSRA",
+      "location":"Cincinnati, OH","url":"https://teamtreehouse.com/library/build-a-simple-website/creating-a-website-structure"
+      ,"icon_url":"https://achievement-images.teamtreehouse.com/badges_WebsiteIsland1_Stage3.png","earned_date":"2012-10-02T03:21:14.000Z",
+      "courses":[
+        "Coded first mobile web application for the NIOSH Pocket Guide to Chemical Hazards, a single source to all general industrial hygiene information on several hundred chemicals/classes for workers, employers, and occupational health professionals. Built using Model–view–controller(MVC) code pattern as a single page application with JSON multiple field search"
+	,"Languages included AngularJS, RequireJS, Twitter Bootstrap UI, HTML5, AJAX, SVG splash view, Local storage, Application Cache and JSON."
+	,"Developed prototype of Web Team Web Request System as a task management tool of incoming requests for internal customers serving the public. The application was built on Sharepoint 2010, InfoPath and Nintex Workflow Automation software"
+	,"Prototyped first Android 6.0 (API 23) application as possible template for future NIOSH in-house apps using Android Studio IDE(IntelliJ IDEA) and SDK 24. tools on Mac OS X (Mavericks)"
+  ,"Coded topic pages for NIOSH website using HTML,HTML5,CSS3,Javascript, and jQuery "
+	,"Coded HTML/CSS/JS and contributed content to the NIOSH Web Content Management System, an in-house tool delivering content to CDC NIOSH public facing website"
+	,"Provided expertise in UI/UX, workflow logic, data modeling during all facets of web development using Web Storm 9, Fireworks CS5 and Beyond Compare 3"
+	,"Translated subject matter expert content into the In-House web content management system"
+	,"Created surveys for various NIOSH web pages using UserZoom"
+	,"Coded and embedded Adobe Analytics (Omniture Site Catalyst) into NIOSH web pages"
+        ]},
+
+    {"id":175,
+      "title":"Web Developer/Designer","duration":"4/2008 – 2/2013",
+        "companyInfo":"Freelance Web Designer&nbsp;",
+        "location":"Cincinnati, OH",
+      "url":"https://teamtreehouse.com/library/build-a-simple-website/styling-content",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_WebsiteIsland1_Stage4.png","earned_date":"2012-10-02T05:29:59.000Z",
+      "courses":[
+        "Built cutting edge web projects using Web 2.0 standards"
+,"Created and cloned Wordpress (WP) themes to reflect clients marketing campaign"
+,"Deployed Blogs and optimized pages for SEO"
+,"Created copy write and added content to call-to-action widgets"
+,"Built sites on Wordpress 3.+ CMS/Blog, PHP5+"
+,"Integrated social networking feeds with plugins (Facebook, Flickr, Twitter)"
+,"Embedded YouTube, Flash Video web page content"
+,"Integrated Google Calendar API web page content"
+,"Coded customized WP plugins using AJAX/json for better UI performance"
+,"Developed microsites in C#, ASP.NET 4.0, ADO.NET, Theme/Skins, User Controls, AJAX Control Toolkit"
+,"Designed banner logo for eBay store VertexNetworking Store. Established web page template for the storefront with Adobe CS"
+,"Created logo for Ohio Bureau of Workers Compensation"
+,"Illustrated web banners, logos and web image maps for Ohio Special Educators"
+,"Configured databases, subdomains, FTP accounts on web hosting control panels (Plesk, CP)"
+,"Configured security for sites with SSL Certificates and cURL"
+,"Developed and administered Magento eCommerce CMS, built custom theme and modules"
+        ]},
+
+        {"id":999,"title":"Web Developer ","duration":"10/2007 – 4/2008","location":"Miamisburg, OH",
+          "companyInfo":"TekSystems supporting Lexis-Nexis",
+          "url":"https://teamtreehouse.com/jamesbarnett",
+          "icon_url":"","earned_date":"2012-10-01T19:40:31.000Z",
+          "courses":[
+            "Developed and optimized existing JavaScript applications, which act as a point of access for Transactional Law documents, news and relevant information via Lexis.com."
+            ,"Designed portals using DOM in accordance to XHTML 1.0 Standards viewable on IE 5+, Firefox 1+, and Mac Safari 2+."
+          ]
+        },
+
+
+
+        {"id":1000,"title":"Web Designer/System Support ","duration":"4/2007 – 10/2007","location":"West Chester, OH",
+          "companyInfo":"Cornerstone Brands",
+          "url":"https://teamtreehouse.com/jamesbarnett",
+          "icon_url":"","earned_date":"2012-10-01T19:40:31.000Z",
+          "courses":[
+            "Provided end-user support of mail order Ecometry system and other PC applications for customer service"
+            ,"Redesigned company intranet website to reflect direct marketing brands such as Frontgate, Grandin Road, Ballard Design, Garnet Hill, Smith+Noble, The Territory Ahead, TravelSmith, Improvements and Alsto's using ASP.NET(C#), AJAX.NET and ADO.NET"
+            ,"Gathered business requirements from functional units such as Operations Management, Quality Assurance, Shipping/Traffic, Product Specialists and Workforce Management"
+            ,"Translated requirements and business processes into technical specifications"
+            ,"Client-side development languages include HTML, JavaScript, CSS"
+            ,"Backend development included SQL 2000 and 2005/SQL Server Integration Services adding/changing Stored Procedures and Functions"
+          ]
+        },
+
+        {"id":1001,"title":"Web Designer ","duration":"12/2006 – 1/2007","location":"Cincinnati, OH",
+          "companyInfo":"TekSystems supporting Procter & Gamble",
+          "url":"https://teamtreehouse.com/jamesbarnett",
+          "icon_url":"","earned_date":"2012-10-01T19:40:31.000Z",
+          "courses":[
+            "Modified page layout, interaction design and look and feel of intranet website using HTML, JavaScript and CSS"
+          ,"Designed site using Dreamweaver 8"
+          ,"Optimized PSD, PNG, GIF and JPEG files using Photoshop and Fireworks MX"
+          ,"Created animation to handle dynamic data using Flash MX"
+
+          ]
+        },
+
+      {"id":4882,"title":"Programmer/Tech Support/Customer Service Rep "
+        ,"duration":"2/2003 – 12/2006","location":"Blue Ash, OH"
+        ,"companyInfo":"Construction Software Technologies, Inc."
+        ,"url":"https://teamtreehouse.com/library/ruby-booleans/ruby-booleans"
+        ,"icon_url":"https://achievement-images.teamtreehouse.com/badges_ruby_booleans_Stage1.png"
+        ,"earned_date":"2017-03-07T02:23:11.000Z",
+      "courses":
+      [
+        "Compiled data to create campaign prospect lists for Call Center department using SQL Server 2000 (Query Analyzer-Transact SQL, Enterprise Manager, DTS)"
+        ,"Provided tech/customer support for largest construction bid solicitation firm in the country with more than 38,000 users troubleshooting the Association of General Contractors (AGC) Internet Plan Room or iSqFt.com website"
+        ,"Resolved incoming calls for in-house estimating software and print support for HP wide format plotters"
+        ,"Deployed XP workstations on the network for new employees providing hardware and software updates as needed"
+        ,"Designed and maintained tech support website (isqft.com/support) running on Microsoft IIS 5.0 server using ASP, JavaScript, CSS web scripting technologies"
+        ]}
+
+        ],
+
+      "points":{"total":37559,"HTML":3359,"CSS":6484,"Design":813,"JavaScript":3814,"Ruby":2645,"PHP":857,"WordPress":1434,"iOS":1096,"Android":565,"Development Tools":1265,"Business":490,"Python":514,"Java":204,"Digital Literacy":11,"C#":167,"Databases":93,"Data Analysis":0,"APIs":0,"Security":0,"Go":0,"Quality Assurance":0,"Machine Learning":0,"Computer Science":0}}

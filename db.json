@@ -32,7 +32,6 @@
     	,"Suggested business process improvements while working through solution design Qualifications"
       ]
       },
-
     {"id":165,"title":"Software Applications Developer","duration":"4/2016 – 12/2016",
       "companyInfo":"CSRA",
       "location":"Columbia, MD","url":"https://teamtreehouse.com/library/build-a-simple-website/text-editors-and-html","icon_url":"https://achievement-images.teamtreehouse.com/badges_WebsiteIsland1_Stage2.png","earned_date":"2012-10-01T21:16:37.000Z",
@@ -48,10 +47,8 @@
         ,"Researched, coded and tested a fullstack JS development environment, which included Angular 2, ExpressJS, and Node.js to stay abreast with cutting edge technologies"
         ]
       },
-
     {"id":170,"title":"Software Engineer, Web Designer","duration":"2/2013 – 4/2016",
-      "companyInfo":"CSRA",
-      "location":"Cincinnati, OH","url":"https://teamtreehouse.com/library/build-a-simple-website/creating-a-website-structure"
+      "companyInfo":"CSRA","location":"Cincinnati, OH","url":"https://teamtreehouse.com/library/build-a-simple-website/creating-a-website-structure"
       ,"icon_url":"https://achievement-images.teamtreehouse.com/badges_WebsiteIsland1_Stage3.png","earned_date":"2012-10-02T03:21:14.000Z",
       "courses":[
         "Coded first mobile web application for the NIOSH Pocket Guide to Chemical Hazards, a single source to all general industrial hygiene information on several hundred chemicals/classes for workers, employers, and occupational health professionals. Built using Model–view–controller(MVC) code pattern as a single page application with JSON multiple field search"
@@ -64,73 +61,7 @@
 	,"Translated subject matter expert content into the In-House web content management system"
 	,"Created surveys for various NIOSH web pages using UserZoom"
 	,"Coded and embedded Adobe Analytics (Omniture Site Catalyst) into NIOSH web pages"
-        ]},
-
-    {"id":175,
-      "title":"Web Developer/Designer","duration":"4/2008 – 2/2013",
-        "companyInfo":"Freelance Web Designer&nbsp;",
-        "location":"Cincinnati, OH",
-      "url":"https://teamtreehouse.com/library/build-a-simple-website/styling-content",
-      "icon_url":"https://achievement-images.teamtreehouse.com/badges_WebsiteIsland1_Stage4.png","earned_date":"2012-10-02T05:29:59.000Z",
-      "courses":[
-        "Built cutting edge web projects using Web 2.0 standards"
-,"Created and cloned Wordpress (WP) themes to reflect clients marketing campaign"
-,"Deployed Blogs and optimized pages for SEO"
-,"Created copy write and added content to call-to-action widgets"
-,"Built sites on Wordpress 3.+ CMS/Blog, PHP5+"
-,"Integrated social networking feeds with plugins (Facebook, Flickr, Twitter)"
-,"Embedded YouTube, Flash Video web page content"
-,"Integrated Google Calendar API web page content"
-,"Coded customized WP plugins using AJAX/json for better UI performance"
-,"Developed microsites in C#, ASP.NET 4.0, ADO.NET, Theme/Skins, User Controls, AJAX Control Toolkit"
-,"Designed banner logo for eBay store VertexNetworking Store. Established web page template for the storefront with Adobe CS"
-,"Created logo for Ohio Bureau of Workers Compensation"
-,"Illustrated web banners, logos and web image maps for Ohio Special Educators"
-,"Configured databases, subdomains, FTP accounts on web hosting control panels (Plesk, CP)"
-,"Configured security for sites with SSL Certificates and cURL"
-,"Developed and administered Magento eCommerce CMS, built custom theme and modules"
-        ]},
-
-        {"id":999,"title":"Web Developer ","duration":"10/2007 – 4/2008","location":"Miamisburg, OH",
-          "companyInfo":"TekSystems supporting Lexis-Nexis",
-          "url":"https://teamtreehouse.com/jamesbarnett",
-          "icon_url":"","earned_date":"2012-10-01T19:40:31.000Z",
-          "courses":[
-            "Developed and optimized existing JavaScript applications, which act as a point of access for Transactional Law documents, news and relevant information via Lexis.com."
-            ,"Designed portals using DOM in accordance to XHTML 1.0 Standards viewable on IE 5+, Firefox 1+, and Mac Safari 2+."
-          ]
-        },
-
-
-
-        {"id":1000,"title":"Web Designer/System Support ","duration":"4/2007 – 10/2007","location":"West Chester, OH",
-          "companyInfo":"Cornerstone Brands",
-          "url":"https://teamtreehouse.com/jamesbarnett",
-          "icon_url":"","earned_date":"2012-10-01T19:40:31.000Z",
-          "courses":[
-            "Provided end-user support of mail order Ecometry system and other PC applications for customer service"
-            ,"Redesigned company intranet website to reflect direct marketing brands such as Frontgate, Grandin Road, Ballard Design, Garnet Hill, Smith+Noble, The Territory Ahead, TravelSmith, Improvements and Alsto's using ASP.NET(C#), AJAX.NET and ADO.NET"
-            ,"Gathered business requirements from functional units such as Operations Management, Quality Assurance, Shipping/Traffic, Product Specialists and Workforce Management"
-            ,"Translated requirements and business processes into technical specifications"
-            ,"Client-side development languages include HTML, JavaScript, CSS"
-            ,"Backend development included SQL 2000 and 2005/SQL Server Integration Services adding/changing Stored Procedures and Functions"
-          ]
-        },
-
-        {"id":1001,"title":"Web Designer ","duration":"12/2006 – 1/2007","location":"Cincinnati, OH",
-          "companyInfo":"TekSystems supporting Procter & Gamble",
-          "url":"https://teamtreehouse.com/jamesbarnett",
-          "icon_url":"","earned_date":"2012-10-01T19:40:31.000Z",
-          "courses":[
-            "Modified page layout, interaction design and look and feel of intranet website using HTML, JavaScript and CSS"
-          ,"Designed site using Dreamweaver 8"
-          ,"Optimized PSD, PNG, GIF and JPEG files using Photoshop and Fireworks MX"
-          ,"Created animation to handle dynamic data using Flash MX"
-
-          ]
-        },
-
-      {"id":4882,"title":"Programmer/Tech Support/Customer Service Rep "
+        ]},{"id":4882,"title":"Programmer/Tech Support/Customer Service Rep "
         ,"duration":"2/2003 – 12/2006","location":"Blue Ash, OH"
         ,"companyInfo":"Construction Software Technologies, Inc."
         ,"url":"https://teamtreehouse.com/library/ruby-booleans/ruby-booleans"

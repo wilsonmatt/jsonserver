@@ -5,7 +5,7 @@
   [{"id":4,"title":"Front End Developer","duration":"11/2018-Present","location":"Columbia, MD","companyInfo":"GDIT supporting Centers for Medicare and Medicaid Services","url":"","icon_url":"","earned_date":"2012-10-01T19:40:31.000Z","courses":["Developed and maintained Angular 7 applications with Angular CLI, NodeJS, NPM, Visual Studio Code, GitLab, Jenkins and JIRA","Designed Illustrator wireframes for Splunk Glass Tables and Dashboards for System/Splunk Admins and Site Reliability Engineers","Developed and maintained Java WebSphere portlets with Maven, Java, Eclipse, VS Code, JIRA"]}
   ,{"id":49,"title":"Software Engineer","duration":"8/2018-11/2018","location":"Washington DC",
     "companyInfo":"GDIT supporting U.S. Courts",
-    "url":"https://teamtreehouse.com/jamesbarnett",
+    "url":"",
     "icon_url":"","earned_date":"2012-10-01T19:40:31.000Z",
     "courses":[
 	"Coded , tested, debugged multi-tier .NET/C# electronic vouchering system as submitted by attorneys and experts for criminal cases using Visual Studio Enterprise 2015, SQL Server Management Studio 17.1, SQL Server Data Tools, MS SQL Server 2016 Report Builder, DevExpress, Component Art Controls with Team Foundation Server for source control"
@@ -16,8 +16,8 @@
   },
     {"id":159,"title":"Software Engineer","duration":"1/2017 – 7/2018","location":"Frederick, MD",
       "companyInfo":"GDIT supporting Institute of Education Sciences",
-      "url":"https://teamtreehouse.com/library/build-a-simple-website/website-basics",
-      "icon_url":"https://achievement-images.teamtreehouse.com/badges_WebsiteIsland1_Stage1.png","earned_date":"2012-10-01T20:03:11.000Z",
+      "url":"",
+      "icon_url":"","earned_date":"2012-10-01T20:03:11.000Z",
       "courses":[
         "Coded, tested, debugged and implemented .NET peer review application for the Department of Education, Institute of Education Sciences (IES), Peer Review Information Management Online (PRIMO) web application"
     	,"Utilized Agile best practices and coding standards while completing project tasks including coding, testing, debugging, documenting and maintaining application code"
@@ -33,7 +33,7 @@
       },
     {"id":165,"title":"Software Applications Developer","duration":"4/2016 – 12/2016",
       "companyInfo":"GDIT supporting Centers for Medicare and Medicaid Services",
-      "location":"Columbia, MD","url":"https://teamtreehouse.com/library/build-a-simple-website/text-editors-and-html","icon_url":"https://achievement-images.teamtreehouse.com/badges_WebsiteIsland1_Stage2.png","earned_date":"2012-10-01T21:16:37.000Z",
+      "location":"Columbia, MD","url":"","icon_url":"","earned_date":"2012-10-01T21:16:37.000Z",
       "courses":[
         "Coded, tested, debugged and implemented Junit tests within the Centers for Medicare & Medicaid Services (CMS) web application"
         ,"Developed micro level automated testing plans under the CMS PQRS system, a Java/J2EE technology stack located in Dimensions repository"
@@ -47,8 +47,8 @@
         ]
       },
     {"id":170,"title":"Software Engineer, Web Designer","duration":"2/2013 – 4/2016",
-      "companyInfo":"GDIT supporting Centers for Disease Control and Prevention","location":"Cincinnati, OH","url":"https://teamtreehouse.com/library/build-a-simple-website/creating-a-website-structure"
-      ,"icon_url":"https://achievement-images.teamtreehouse.com/badges_WebsiteIsland1_Stage3.png","earned_date":"2012-10-02T03:21:14.000Z",
+      "companyInfo":"GDIT supporting Centers for Disease Control and Prevention","location":"Cincinnati, OH","url":""
+      ,"icon_url":"","earned_date":"2012-10-02T03:21:14.000Z",
       "courses":[
         "Coded first mobile web application for the NIOSH Pocket Guide to Chemical Hazards, a single source to all general industrial hygiene information on several hundred chemicals/classes for workers, employers, and occupational health professionals. Built using Model–view–controller(MVC) code pattern as a single page application with JSON multiple field search"
 	,"Languages included AngularJS, RequireJS, Twitter Bootstrap UI, HTML5, AJAX, SVG splash view, Local storage, Application Cache and JSON."
